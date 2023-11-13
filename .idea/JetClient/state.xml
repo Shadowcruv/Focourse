@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="0c7a251c-aabb-45ef-a4f4-9862239e9f3e" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8083/studentspage/spage" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;userName&quot;: &quot;gg.edward@stu.unizik.edu.ng&quot;,&#10;  &quot;password&quot;: &quot;michael&quot;,&#10;  &quot;email&quot;: &quot;fishish&quot;,&#10;  &quot;gender&quot;: &quot;male&quot;,&#10;  &quot;stateOfOrigin&quot;: &quot;Asaba&quot;,&#10;  &quot;phoneNumber&quot;: &quot;04874578&quot;,&#10;  &quot;school&quot;: &quot;unizik&quot;,&#10;  &quot;faculty&quot;: &quot;engineering&quot;,&#10;  &quot;department&quot;: &quot;computer&quot;,&#10;  &quot;level&quot;: &quot;300&quot;&#10;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4ea8ff44-d86d-4197-9496-62179427bd09" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://focourse.af-south-1.elasticbeanstalk.com/studentspage/spage" />
+            </requestState>
+            <requestState>
+              <option name="id" value="bc2c4c27-1118-4465-ba5a-835e06f87344" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 2" />
+            </requestState>
+            <requestState>
+              <option name="id" value="54ac8a69-5873-43e7-8817-707326ec8f55" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 3" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="b46aa20b-ea51-484a-96db-b1582bc0ec53" />
+  </component>
+</project>

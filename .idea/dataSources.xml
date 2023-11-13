@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="focourseDB@focourse-database.c2jorikkg0ha.af-south-1.rds.amazonaws.com" uuid="601da2d5-dad5-4315-b253-c3a121c9f094">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://focourse-database.c2jorikkg0ha.af-south-1.rds.amazonaws.com:5432/focourseDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
